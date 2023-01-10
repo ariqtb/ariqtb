@@ -1,7 +1,7 @@
 # Hi, I’m ariq 👋
 - I’m interested in Full Stack Developer 
 - I’m currently learning NextJS/React, ExpressJS and TailwindCSS
-- I’m looking to collaborate as Front-end Developer
+- I’m looking to collaborate as Web/Software Developer
 - Let's touch via email ariq.tn15@gmail.com ✨
 
 <!---
